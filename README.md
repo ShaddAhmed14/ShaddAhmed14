@@ -15,10 +15,10 @@
 <br>
 
 ## Recent Projects
-### Early Forest Fire Detection System 
-### Visual AI system 
-### Bloodlink 
-### Swap-It
-### Video Object Detection
-### Wordle
-### Ludo
+- Early Forest Fire Detection System 
+- Visual AI system 
+- Bloodlink 
+- Swap-It
+- Video Object Detection
+- Wordle
+- Ludo
